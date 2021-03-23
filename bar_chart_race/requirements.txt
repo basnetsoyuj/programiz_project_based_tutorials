@@ -1,0 +1,1 @@
+bar-chart-race @ git+https://github.com/programiz/bar_chart_race.git@master
