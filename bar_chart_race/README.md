@@ -2,6 +2,12 @@
 
 Make animated bar and line chart races in Python with matplotlib or plotly.
 
+---
+
+Video Tutorial Link: [https://youtu.be/mr61PDiUvwY](https://youtu.be/mr61PDiUvwY)
+
+---
+
 Original Repo (without icons) : [https://github.com/dexplo/bar_chart_race](https://github.com/dexplo/bar_chart_race)
 
 Andres Berejnoi's Repo (with
@@ -11,7 +17,7 @@ icons) : [https://github.com/andresberejnoi/bar_chart_race](https://github.com/a
 
 ## Top Computer Science Schools 2000 - 2020
 
-![img](demo.gif)
+![Bar Chart Race GIF](demo.gif)
 
 ---
 
